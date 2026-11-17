@@ -19,3 +19,7 @@ Expected output:
 ```
 Hello, World!
 ```
+
+---
+
+_This README was modified from a Kiro CLI session._
